@@ -1,2 +1,2 @@
 # RCOM
-Repositório do trabalho de RCOm
+Repositório do trabalho de RCOM
